@@ -1,0 +1,10 @@
+#  GÜVENLİK UYARISI 
+# Bu yöntemi KULLANMAYIN! Sadece örnek amaçlı gösterilmiştir.
+# API key'iniz koda yazılırsa paylaşırsanız çalınabilir!
+
+# YANLIŞ YÖNTEM (KULLANMAYIN):
+# perso.py içinde şöyle değişiklik yapmayın:
+
+# DOĞRU YÖNTEM:
+# 1. .env dosyası kullanın (Yöntem 2)
+# 2. Ya da arayüzden her seferinde girin (Yöntem 1)
